@@ -16,8 +16,6 @@ Welcome to my world of code, security, and endless learning! I'm a passionate se
 - 🎮 Soul – Crafting a purpose-driven game where achievements unlock real-world impact (Python + PyGame)
 - 🌐 Startup Stack – Architecting full-stack web solution (Django + React)
 
-### ⚡ Fun fact: ...
-- watching anime
 
 ### 🛠️ Technical Toolkit
 **Programming:** Python (Flask/Django), Bash  
