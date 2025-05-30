@@ -13,7 +13,7 @@ Welcome to my world of code, security, and endless learning! I'm a passionate se
 
 
 ### 🔭 I’m currently working on ...
-- 🎮 Soul – Crafting a purpose-driven game where achievements unlock real-world impact (Python + PyGame)
+- 🎮 Soul – Crafting a purpose-driven game where achievements unlock real-world impact (Python + PyGame + c++)
 - 🌐 Startup Stack – Architecting full-stack web solution (Django + React)
 
 
