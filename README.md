@@ -1,6 +1,6 @@
 # Hello, I'm Satish! 👋
 
-### 🚀 Self-Trained Computer Scientist | Python Enthusiast | Cybersecurity Explorer
+### 🚀 Self-Trained Tech Enthusiast | Python Enthusiast | Cybersecurity Explorer
 
 Welcome to my world of code, security, and endless learning! I'm a passionate self-taught computer scientist with a deep love for **Python development** and **cybersecurity tools**. My journey revolves around building, breaking, and securing systems while constantly expanding my knowledge.
 
